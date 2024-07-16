@@ -1,9 +1,7 @@
 # Tic Tac Toe
  Creating a Tic Tac Toe game using HTML, CSS, and JavaScript can be broken down into several steps. Here's a simplified outline of the process, including the structure of the files you mentioned: store.js, app.js, view.js, and index.css.
 
- # Live Demo
- https://maham1033.github.io/Tic-Tac-Toe/
-
+ # [Live Demo]( https://maham1033.github.io/Tic-Tac-Toe/)
 # 1. Set Up Your Files and Project Structure:
 
 Create the following files in a directory for your project:
